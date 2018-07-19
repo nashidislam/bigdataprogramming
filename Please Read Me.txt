@@ -1,0 +1,15 @@
+The mapper and reducer of the problem is desgined to merge files.
+So for proper order we need to feed it with files in the right order.
+It is described below in terms of problem number
+
+Problem1: <userhandle> <Tweet file> <output Directory>
+
+Problem 2: <User file> <Tweet File> <output Directory>
+
+Problem 3: <Tweet file> <user file> <Output Directory>
+
+Problem 4: <Tweet file> <user file> <Output Directory>
+
+Thank you for reading the file it shoule make it easier.
+
+N@ashid
